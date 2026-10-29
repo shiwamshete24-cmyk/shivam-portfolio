@@ -37,6 +37,26 @@
     "live": "https://studynotion-codetech.vercel.app/",
     "github": "https://github.com/shiwamshete24-cmyk/studynotion-codetech"
   },
+  
+{
+  "name": "Face Emotion Detection",
+  "image": "assets/images/project 8.png",
+  "description": "Developed a facial emotion recognition system using a Convolutional Neural Network (CNN) to classify human facial expressions into different emotion categories. Implemented image preprocessing, face image normalization, model training, and evaluation using TensorFlow and Keras. Deployed the trained model on Render to enable users to upload facial images and predict emotions through a web-based application.",
+  "tech": [
+    "Python",
+    "TensorFlow",
+    "Keras",
+    "CNN",
+    "Computer Vision",
+    "Image Processing",
+    "NumPy",
+    "Pandas",
+    "Scikit-learn"
+  ],
+  "live": "https://face-emotion-detection-2qsy.onrender.com/",
+  "github": "https://github.com/shiwamshete24-cmyk/Face-Emotion-Detection"
+}
+,
   {
     "name": "Emotion Detection from Text",
     "image": "assets/images/project 3.png",
